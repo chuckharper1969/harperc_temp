@@ -1,0 +1,40 @@
+{
+    "batches": [
+        {
+            "index": "os_nix",
+            "earliest": "01/01/2022:00:00:00",
+            "latest": "09/05/2022:12:55:41",
+            "num_events": 49998,
+            "status": "initial"
+        },
+        {
+            "index": "os_nix",
+            "earliest": "09/05/2022:12:56:04",
+            "latest": "11/13/2022:12:44:05",
+            "num_events": 49799,
+            "status": "initial"
+        },
+        {
+            "index": "os_nix",
+            "earliest": "11/13/2022:12:44:06",
+            "latest": "11/15/2022:15:37:47",
+            "num_events": 49829,
+            "status": "initial"
+        },
+        {
+            "index": "os_win",
+            "earliest": "01/01/2022:00:00:00",
+            "latest": "11/13/2022:13:40:10",
+            "num_events": 49860,
+            "status": "initial"
+        },
+        {
+            "index": "syslog",
+            "earliest": "01/01/2022:00:00:00",
+            "latest": "10/28/2022:11:12:25",
+            "num_events": 4545,
+            "status": "initial"
+        }
+    ],
+    "count": 5
+}

@@ -1,0 +1,27 @@
+{
+    "ABC_Cluster": {
+        "description": "ABC Cluster XXXXX",
+        "username": "USERNAME-ABC",
+        "password": "PASSWORD-ABC XXXX",
+        "url": "http://cribl.maejer.lab:9000"
+    },
+    "DEF_Cluster": {
+        "description": "DEF Cluster",
+        "username": "USERNAME-DEF",
+        "password": "PASSWORD-DEF",
+        "url": "http://cribl.maejer.lab:9000"
+    },
+    "GHI_Cluster": {
+        "description": "GHI Cluster",
+        "username": "USERNAME-GHI",
+        "password": "PASSWORD-GHI",
+        "url": "http://cribl.maejer.lab:9000"
+    },
+    "JKL_Cluster": {
+        "description": "DEF Cluster",
+        "username": "USERNAME-JKL",
+        "password": "PASSWORD-JKL",
+        "url": "http://cribl.maejer.lab:9000"
+    }
+}
+

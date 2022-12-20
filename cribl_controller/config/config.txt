@@ -1,0 +1,16 @@
+# contents config.json
+{
+    "cribl_conn": {
+        "username": "admin",
+        "password": "######",
+        "url": "http://cribl.maejer.lab:9000"
+    },
+    "hydrant_conn": {
+        "username": "admin",
+        "password": "#####",
+        "url": "http://hydrant.maejer.lab:9000"
+    },
+    "output_template": "output_template.json",
+    "elk_output_prefix": "elk_destination_",
+    "elk_output_router_name": "ELK_Outputs_Router"
+}
